@@ -1,4 +1,4 @@
-## Hi there, my name is Medhavi!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1891F7&width=435&lines=Hi+there!+My+name+is+Medhavi!)](https://git.io/typing-svg)
 ### I'm pursuing a degree in Statistics and Data Science and a certificate in Computer Science at the University of Texas at Austin.
 
 #### 🌱 I'm interested in data engineering and analytics, machine learning and AI, software engineering, and web development!
