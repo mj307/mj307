@@ -5,7 +5,7 @@
 
 I've worked with:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0ACC21&width=435&lines=Python;Pandas%2FNumpy;SQL;Docker;Kubernetes;R;Scikit-Learn;Shell%2FLinux;HTML%2FCSS;AWS;Prometheus;Grafana;Matplotlib%2FSeaborn;Langchain;Swift)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ACC21&width=435&lines=Python;Pandas%2FNumpy;SQL;Docker;Kubernetes;R;Scikit-Learn;Shell%2FLinux;HTML%2FCSS;AWS;Prometheus;Grafana;Matplotlib%2FSeaborn;Langchain;Swift)](https://git.io/typing-svg)
 
 <!--
 **mj307/mj307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
