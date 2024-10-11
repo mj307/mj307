@@ -8,6 +8,8 @@
 
 📊 Love using data to solve business problems
 
+🎸 Big rock/heavy metal fan (Mötley Crüe, Guns N' Roses, Whitesnake, Metallica, AC/DC, and so much more)!!
+
 I love working with:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&color=0ACC21&width=435&lines=Python;Pandas%2FNumpy;SQL;Docker;Kubernetes;R;Scikit-Learn;Shell%2FLinux;HTML%2FCSS;AWS;Prometheus;Grafana;Matplotlib%2FSeaborn;Langchain;Swift)](https://git.io/typing-svg)
