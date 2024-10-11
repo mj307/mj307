@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1891F7&width=435&lines=Hi+there!+My+name+is+Medhavi.)](https://git.io/typing-svg)
 
 💻 Statistics & Data Science (minor in Computer Science) at UT Austin
+
 🌱 Interested in software engineering, data engineering + analytics, machine learning + AI, and web development
+
 🧩 Coding and puzzle solving aficionado
+
 📊 Love using data to solve business problems
 
 I love working with:
